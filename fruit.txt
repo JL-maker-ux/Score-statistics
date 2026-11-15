@@ -1,3 +1,2 @@
 tomato ,tomato
 apple,apple
-pear,pear
